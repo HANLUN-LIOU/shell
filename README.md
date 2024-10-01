@@ -22,11 +22,11 @@
 
 ## 進階功能 
 
-1. **支援背景執行 (background execution `&`) **
+1. **支援背景執行 (background execution `&`)**
 
-2. **支援輸出重定向 (output redirection `>`) **
+2. **支援輸出重定向 (output redirection `>`)**
 
-3. **查詢歷史 command **
+3. **查詢歷史 command**
     - 按 `上/下` 鍵時，印出 prompt 及上/下一筆歷史 command
     - 歷史 command 印出後，按 `enter` 鍵可執行該歷史 command
 
